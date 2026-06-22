@@ -165,7 +165,7 @@ body { font-family: var(--serif); background: var(--bg); min-height: 100vh; }
 .team-row.loading { pointer-events: none; opacity: 0.5; }
 
 /* ── Loading screen ── */
-.loading {
+.page-loading {
   display: flex;
   align-items: center;
   justify-content: center;

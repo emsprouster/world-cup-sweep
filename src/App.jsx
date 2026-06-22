@@ -41,7 +41,7 @@ export default function App() {
 
   if (!eliminations) {
     return (
-      <div className="loading">
+      <div className="page-loading">
         <span>Loading draw…</span>
       </div>
     );
